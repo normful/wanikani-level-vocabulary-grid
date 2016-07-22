@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/normful/wanikani-level-vocabulary-grid/issues"
   },
-  "homepage": "https://github.com/normful/wanikani-level-vocabulary-grid#readme"
+  "homepage": "https://github.com/normful/wanikani-level-vocabulary-grid#readme",
+  "devDependencies": {
+    "brunch": "^2.8.2",
+    "stylus-brunch": "^2.7.2"
+  }
 }
