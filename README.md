@@ -8,7 +8,7 @@ Install with Stylish from <https://userstyles.org/styles/130500/wanikani-level-v
 
 ## Building
 
-Install [Brunch]<http://brunch.io/> and run `brunch build`.
+Install [Brunch](http://brunch.io/) and run `brunch build`.
 
 ## Screenshot
 
