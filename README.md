@@ -8,7 +8,10 @@ Install with Stylish from <https://userstyles.org/styles/130500/wanikani-level-v
 
 ## Building
 
-Install [Brunch](http://brunch.io/) and run `brunch build`.
+1. Install Node.js and `npm`
+2. `sudo npm install -g brunch` to install [Brunch](http://brunch.io/)
+3. `npm install` to install Brunch plugins
+4. `brunch build`
 
 ## Screenshot
 
