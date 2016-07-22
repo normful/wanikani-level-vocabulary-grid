@@ -12,7 +12,7 @@ Install [Brunch]<http://brunch.io/> and run `brunch build`.
 
 ## Screenshot
 
-- TODO
+![Screenshot](wanikani-level-vocabulary-grid-screenshot.png)
 
 ## Changelog
 
