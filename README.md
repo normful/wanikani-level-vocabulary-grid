@@ -16,4 +16,5 @@ Install [Brunch]<http://brunch.io/> and run `brunch build`.
 
 ## Changelog
 
-- v0.1.0: First draft
+- v0.1.0 First Draft
+- v0.2.0 Refactor with Stylus and incorporate feedback from @rfindley
