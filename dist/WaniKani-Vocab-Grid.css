@@ -1,3 +1,11 @@
+/*
+ * WaniKani Level Vocabulary Grid
+ * Rearranges the Vocabulary into a grid on WaniKani's level summary pages
+ *
+ * Author: Norman Sue
+ * Version: 0.2.0
+ * License: MIT
+ */
 @namespace url("http://www.w3.org/1999/xhtml");
 @-moz-document url-prefix("https://www.wanikani.com/level") {
 @media (min-width: 768px) {
