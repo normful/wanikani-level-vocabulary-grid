@@ -1,14 +1,14 @@
 /*
  * WaniKani Level Vocabulary Grid
- * Rearranges the Vocabulary into a grid on WaniKani's level summary pages
+ * Rearranges the WaniKani Level Vocabulary into a grid
  *
  * Author: Norman Sue
- * Version: 0.2.0
+ * Version: 0.2.1
  * License: MIT
  */
 
 @namespace url(http://www.w3.org/1999/xhtml)
-@-moz-document url-prefix("https://www.wanikani.com/level")
+@-moz-document regexp("http(s?)://www.wanikani.com/(level.*|vocabulary)")
   section
     & > ul
       @media (min-width: 768px)
