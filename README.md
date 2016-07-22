@@ -13,9 +13,11 @@ Install with Stylish from <https://userstyles.org/styles/130500/wanikani-level-v
 3. `npm install` to install Brunch plugins
 4. `brunch build`
 
-## Screenshot
+## Screenshots
 
-![Screenshot](wanikani-level-vocabulary-grid-screenshot.png)
+![Level 9](wanikani-level-vocabulary-grid-screenshot-1.png)
+
+![Levels 1 through 10](wanikani-level-vocabulary-grid-screenshot-2.png)
 
 ## Changelog
 
