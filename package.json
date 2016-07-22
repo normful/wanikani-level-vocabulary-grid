@@ -1,0 +1,24 @@
+{
+  "name": "wanikani-level-vocabulary-grid",
+  "version": "0.1.0",
+  "description": "WaniKani Level Vocabulary Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normful/wanikani-level-vocabulary-grid.git"
+  },
+  "keywords": [
+    "wanikani",
+    "userstyle",
+    "vocabulary"
+  ],
+  "author": "Norman Sue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/normful/wanikani-level-vocabulary-grid/issues"
+  },
+  "homepage": "https://github.com/normful/wanikani-level-vocabulary-grid#readme"
+}

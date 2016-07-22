@@ -8,4 +8,8 @@ Install with Stylish from <https://userstyles.org/styles/130500/wanikani-level-v
 
 ## Screenshot
 
-- TODO: Add updated image.
+- TODO
+
+## Changelog
+
+- v0.1.0: First draft
