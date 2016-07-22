@@ -24,5 +24,10 @@
   "devDependencies": {
     "brunch": "^2.8.2",
     "stylus-brunch": "^2.7.2"
+  },
+  "scripts": {
+    "release-major": "npm version major -m \"[dist] v%s\"",
+    "release-minor": "npm version minor -m \"[dist] v%s\"",
+    "release-patch": "npm version patch -m \"[dist] v%s\""
   }
 }
