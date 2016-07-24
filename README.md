@@ -13,7 +13,7 @@ Alternatively install it with Tampermonkey or Greasemonkey from <https://greasyf
 1. Install Node.js and `npm`
 2. `sudo npm install -g brunch` to install [Brunch](http://brunch.io/)
 3. `npm install` to install Brunch plugins
-4. `brunch build`
+4. `npm run-script build`
 
 ## Screenshots
 
