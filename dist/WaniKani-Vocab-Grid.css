@@ -7,9 +7,9 @@
  * License: MIT
  */
 @namespace url("http://www.w3.org/1999/xhtml");
-@-moz-document regexp("http(s?)://www.wanikani.com/(level.*|vocabulary)") {
+@-moz-document regexp("http(s?)://www.wanikani.com/(level.*|vocabulary.*|kanji.*)") {
 @media (min-width: 768px) {
-    section > ul {
+    ul.multi-character-grid {
       display: flex;
       flex-flow: row wrap;
     }
