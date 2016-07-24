@@ -3,7 +3,7 @@
 // @description  Rearranges the WaniKani Level Vocabulary into a grid
 // @author       Norman Sue
 // @namespace    normful
-// @version      0.3.0
+// @version      0.3.1
 // @license      MIT
 // @match        http://www.wanikani.com/level*
 // @match        http://www.wanikani.com/vocabulary*
