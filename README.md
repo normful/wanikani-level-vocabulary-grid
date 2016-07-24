@@ -17,9 +17,11 @@ Alternatively install it with Tampermonkey or Greasemonkey from <https://greasyf
 
 ## Screenshots
 
-![Level 9](wanikani-level-vocabulary-grid-screenshot-1.png)
+![Level Page](screenshots/wanikani-level-vocabulary-grid-screenshot-1.png)
 
-![Levels 1 through 10](wanikani-level-vocabulary-grid-screenshot-2.png)
+![Vocabulary Page](screenshots/wanikani-level-vocabulary-grid-screenshot-2.png)
+
+![Kanji Page](screenshots/wanikani-level-vocabulary-grid-screenshot-3.png)
 
 ## Changelog
 
