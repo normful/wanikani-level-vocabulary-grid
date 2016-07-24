@@ -4,6 +4,8 @@
   "description": "WaniKani Level Vocabulary Grid",
   "main": "index.js",
   "scripts": {
+    "make-plain-css": "./trim-userstyle-into-plain-css.sh",
+    "build": "brunch build && npm run-script make-plain-css",
     "release-major": "npm version major -m \"[dist] v%s\"",
     "release-minor": "npm version minor -m \"[dist] v%s\"",
     "release-patch": "npm version patch -m \"[dist] v%s\""
