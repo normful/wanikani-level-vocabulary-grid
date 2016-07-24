@@ -24,3 +24,4 @@ Install with Stylish from <https://userstyles.org/styles/130500/wanikani-level-v
 - v0.1.0 First Draft
 - v0.2.0 Refactor with Stylus and incorporate feedback from @rfindley
 - v0.2.1 Also apply styles to the full Vocabulary list
+- v0.3.1 UserScript for people who don't like Stylish, apply styles to kanji pages, more specific CSS for flexbox container
