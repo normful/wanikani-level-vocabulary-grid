@@ -4,7 +4,9 @@ Rearranges WaniKani Level Vocabulary into a grid.
 
 ## Installation
 
-Install with Stylish from <https://userstyles.org/styles/130500/wanikani-level-vocabulary-grid>.
+Install it with Stylish from <https://userstyles.org/styles/130500/wanikani-level-vocabulary-grid>.
+
+Alternatively install it with Tampermonkey or Greasemonkey from <https://greasyfork.org/en/scripts/21628-wanikani-level-vocabulary-grid>
 
 ## Building
 
