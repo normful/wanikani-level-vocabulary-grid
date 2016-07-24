@@ -9,13 +9,11 @@
 
 @namespace url(http://www.w3.org/1999/xhtml)
 @-moz-document regexp("http(s?)://www.wanikani.com/(level.*|vocabulary.*|kanji.*)")
-  section
-    & > ul
+  ul
+    &.multi-character-grid
       @media (min-width: 768px)
         display flex
         flex-flow row wrap
-  ul
-    &.multi-character-grid
       li
         &.character-item
           box-sizing border-box
