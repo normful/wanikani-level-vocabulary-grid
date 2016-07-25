@@ -1,6 +1,6 @@
 {
   "name": "wanikani-level-vocabulary-grid",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "WaniKani Level Vocabulary Grid",
   "main": "index.js",
   "scripts": {
