@@ -30,3 +30,5 @@ Alternatively install it with Tampermonkey or Greasemonkey from <https://greasyf
 - v0.2.1 Also apply styles to the full Vocabulary list
 - v0.3.1 UserScript for people who don't like Stylish, apply styles to kanji pages, more specific CSS for flexbox container
 - v0.3.2 Add vertical grid lines
+
+
